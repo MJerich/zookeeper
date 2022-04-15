@@ -108,6 +108,25 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Jimbo",
+      "species": "Cool Dude",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving",
+        "goofy"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Zelda",
+      "species": "Cat",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "12"
     }
   ]
 }
